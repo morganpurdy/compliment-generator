@@ -57,7 +57,6 @@ button {
   top: 0;
   left: 0;
   bottom: 0;
-  background-color: #e1cbe6;
   background-color: #66C3D1;
   height: 100%;
   width: 30%;
@@ -65,7 +64,6 @@ button {
 
 .two {
   position: absolute;
-  background-color: #38477a;
   background-color: #181E34;
   top: 0;
   right: 0;
@@ -98,7 +96,7 @@ button {
   width: 70%;
   position: absolute;
   left: 50%;
-  transform: translate(-50%, 20%);
+  transform: translate(-50%, 10%);
   padding: 15px;
   border: 10px solid white;
 }
