@@ -74,7 +74,7 @@ button {
 
 @media (max-width: 499px) {
   h1 {
-    font-size: 36px;
+    font-size: 32px;
   }
 
   button {
@@ -96,7 +96,7 @@ button {
   width: 70%;
   position: absolute;
   left: 50%;
-  transform: translate(-50%, 10%);
+  transform: translate(-50%, 5%);
   padding: 15px;
   border: 10px solid white;
 }
