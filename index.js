@@ -13,5 +13,5 @@ var quote = quotes[Math.floor(Math.random() * quotes.length)];
 
 // display quote with new name
   newName = document.querySelector('.new-name').value;
-  document.querySelector(".quoteDisplay").textContent = newName + quote;
+  document.querySelector(".quoteDisplay").textContent = newName + " " + quote;
 });
