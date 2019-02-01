@@ -92,11 +92,15 @@ button {
   color: #C9A2D2;
 }
 
+input {
+  font-size: 1em;
+}
+
 .parent{
   width: 70%;
   position: absolute;
   left: 50%;
-  transform: translate(-50%, 5%);
+  transform: translate(-50%, 10%);
   padding: 15px;
   border: 10px solid white;
 }
